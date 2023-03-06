@@ -1,8 +1,12 @@
 body {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 
 p {
   color: white;
   display: inline;
+}
+
+.whats {
+  margin-bottom: 5%;
 }
