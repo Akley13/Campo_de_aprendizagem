@@ -7,6 +7,6 @@
 
 ---
 
-* [MDN WEB DOCS - HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
+* [MDN WEB DOCS | HTML | GUIDE](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
 
 * [ANIMAÇÕES | CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
