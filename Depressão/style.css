@@ -10,3 +10,7 @@ p {
   color: white;
   display: inline-block;
 }
+
+#num {
+  padding-left:20px;
+}
